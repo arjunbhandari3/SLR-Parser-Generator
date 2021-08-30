@@ -16,7 +16,7 @@ c. Simulation of SLR parser on the given string.
 
 #### Grammar File
 
-A text file containing the grammar is required. For example, the contents of a grammar file grammar.txt looks like this
+A text file containing the grammar is required. For example, the contents of a grammar file `grammar.txt` looks like this
 
 ```sh
 E -> E + T | T
